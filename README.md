@@ -1,3 +1,6 @@
 - apples
 - oranges
 - peaches
+- kiwis
+- lemons
+- strawberries
